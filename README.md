@@ -1,1 +1,1 @@
-"# FPRM-py" 
+"# Fourier phase reconstruction method " 
